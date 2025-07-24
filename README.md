@@ -1,4 +1,4 @@
-# RGB GLitch - Make a RGB Glitch effect with this GIMP Plugin
+# RGB Glitch - Make a RGB Glitch effect with this GIMP Plugin
 
 
 Make an RGB Glitch effect on your image with this GIMP plugin by moving the red, green, and blue channel vertically and or horizontally independently.
