@@ -3,6 +3,10 @@
 
 Make an RGB Glitch effect on your image with this GIMP plugin by moving the red, green, and blue channel vertically and or horizontally independently.
 
+Download ready binaries and code here
+
+https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_RGB_GLITCH/releases/
+
 
 <img width="1332" height="796" alt="image" src="https://github.com/user-attachments/assets/c725f6df-d211-4c9a-aae3-46d157c0d8fa" />
 
