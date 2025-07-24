@@ -28,7 +28,10 @@ GIMP 2.10 users will only find this in GEGL Operation drop down list and it will
 
 ## Compiling and Installing
 
+on Linux run ./build_plugin_linux.sh 
+or if on Windows ./build_plugin_windows.sh with mysys2 installed
 
+Explanation of what build_plugin script is doing below or if you want to compile it without the auto build script
 
 ### Linux
 
